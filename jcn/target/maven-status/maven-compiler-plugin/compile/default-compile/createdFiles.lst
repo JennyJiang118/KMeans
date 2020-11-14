@@ -1,0 +1,15 @@
+jcn/KMeans$KMeansReducer.class
+jcn/KMeansCluster$KMeansClusterMapper.class
+jcn/RandomClusterGenerator.class
+jcn/Instance.class
+jcn/Cluster.class
+jcn/KMeans$KMeansCombiner.class
+king/Utils/InstanceGenerator.class
+jcn/KMeans.class
+jcn/KMeans$KMeansMapper.class
+king/Utils/Distance.class
+jcn/KMeansCluster.class
+jcn/KMeansDriver.class
+king/Utils/EuclideanDistance.class
+king/Utils/ListWritable.class
+king/Utils/HammingDistance.class
